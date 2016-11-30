@@ -9,3 +9,5 @@ Rishabh Madan ([madan96](https://github.com/madan96)) | rishabhmadan@gmail.com
 
 Himanshu Mishra ([orkohunter](https://github.com/orkohunter)) | himanshumishra@iitkgp.ac.in
 
+Yashasvi ([Yashasvi1225](https://github.com/Yashasvi1225/git-sandbox)) | yashasvikanchugantla@gmail.com
+
